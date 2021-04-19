@@ -1,3 +1,3 @@
 layout: page
 title: "Dey Zapatillas"
-permalink: /deyzapatillas/
+permalink: https://hectordmontoya.github.io/smartcard/deyzapatillas
